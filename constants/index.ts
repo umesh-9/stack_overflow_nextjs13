@@ -71,3 +71,19 @@ export const BADGE_CRITERIA = {
     GOLD: 100000,
   },
 };
+
+export const questions = [
+  "Best practices for data fetching in a Next.js application with Server-Side Rendering (SSR)?",
+  "Can I get the course for free?",
+  "Redux Toolkit Not Updating State as Expected",
+  "Async/Await Function Not Handling Errors Properly",
+  "How do I use express as a custom server in NextJS?",
+];
+
+export const tags = [
+  { name: "NEXT", count: "5" },
+  { name: "JAVASCRIPT", count: "25" },
+  { name: "TAILWINDCSS", count: "10" },
+  { name: "REACTJS", count: "50" },
+  { name: "TEST", count: "5" },
+];
